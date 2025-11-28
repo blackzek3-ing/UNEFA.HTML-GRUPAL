@@ -11,7 +11,7 @@ body {
    
     background: linear-gradient(to left, #eef2f3 0%, #ffffff 100%);
     
-    background-image: url("unefa-fondo2.jpg");
+    background-image: url("unefa-fondo.jpg");
     padding: auto;
     height: 100vh;           
     display: flex;           
