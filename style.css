@@ -10,7 +10,7 @@ body {
    
     background: linear-gradient(to left, #eef2f3 0%, #ffffff 100%);
     
-    background-image: url("unefa-fondo.jpg");
+    background-image: url("/img/logo-original.png");
     padding: auto;
     height: 100vh;           
     display: flex;           
@@ -139,4 +139,8 @@ input:focus {
         padding-right: 0;
         padding: 20px;
     }
+}
+
+.Ingresar {
+    color: #ccc;
 }
