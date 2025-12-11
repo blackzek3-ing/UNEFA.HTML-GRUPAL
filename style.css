@@ -10,7 +10,7 @@ body {
    
     background: linear-gradient(to left, #eef2f3 0%, #ffffff 100%);
     
-    background-image: url("/img/logo-original.png");
+    background-image: url("logo-original.png");
     padding: auto;
     height: 100vh;           
     display: flex;           
